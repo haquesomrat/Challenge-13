@@ -1,0 +1,22 @@
+@media (min-width: 576px) {
+  .container {
+    max-width: 920px;
+    padding: 0;
+  }
+
+  .card-container {
+    flex-direction: row;
+  }
+  .card {
+    padding: 2.875rem;
+  }
+  .card-title {
+    padding-block: 2.625rem;
+  }
+  .card-text {
+    font-size: 1em;
+  }
+  .card-btn {
+    margin-top: 5.375rem;
+  }
+}
